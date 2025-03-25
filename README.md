@@ -41,7 +41,6 @@ Backend: Node.js, Express.js
 
 Database: MongoDB
 
-Web Scraping: BeautifulSoup/Scrapy (Python)
 
 📌 Contributors
 Bhargav Sor
