@@ -22,3 +22,27 @@ Open your terminal and run:
 ```sh
 git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
+2️⃣ Install Dependencies
+cd frontend
+npm install
+npm start
+cd backend
+npm install
+npm start
+3️⃣ Start the Project
+The frontend will run on http://localhost:3000
+
+The backend will run on http://localhost:5001
+
+⚡ Technologies Used
+Frontend: React.js, Tailwind CSS
+
+Backend: Node.js, Express.js
+
+Database: MongoDB
+
+Web Scraping: BeautifulSoup/Scrapy (Python)
+
+📌 Contributors
+Bhargav Sor
+
