@@ -1,0 +1,39 @@
+body {
+  background-color: purple;
+  color: white;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+.navbar {
+  background-color: pink;
+  padding: 15px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.search-bar input {
+  background-color: olive;
+  color: white;
+  padding: 5px;
+  border: none;
+  border-radius: 5px;
+}
+
+.buy-btn {
+  padding: 10px;
+  margin: 5px;
+  border: none;
+  cursor: pointer;
+}
+
+.amazon {
+  background-color: orange;
+  color: white;
+}
+
+.flipkart {
+  background-color: blue;
+  color: white;
+}
